@@ -1,10 +1,5 @@
 # 🚀 KXNUX.ai — AI-Powered Salary Prediction System
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-1.35%2B-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![Scikit-learn](https://img.shields.io/badge/scikit--learn-1.3%2B-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-22C55E.svg)](LICENSE)
-
 KXNUX.ai is an AI-powered salary prediction system for estimating annual salary from a candidate profile. It combines automated data cleaning, exploratory data analysis, preprocessing, a Random Forest regression pipeline, model evaluation, and a modern Streamlit dashboard for HR-focused salary analysis.
 
 > **Important:** This application is a decision-support tool. Predictions are estimates based on the historical dataset and should be reviewed alongside location, market benchmarks, company policy, role scope, skills, and human HR judgment.
@@ -280,9 +275,9 @@ This project is available under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-Maintained by [KXNUX Builds](https://github.com/kxnux-builds).
-
-- Repository: [kxnux-builds/KXNUX.ai](https://github.com/kxnux-builds/KXNUX.ai)
-- Issues: [Report a problem](https://github.com/kxnux-builds/KXNUX.ai/issues)
+- Author: Kishanu Mondal
+- GitHub: https://github.com/kxnux-builds
+- LinkedIn: https://www.linkedin.com/in/kishanu-mondal/
+- X (Twitter): https://x.com/Kxnux_Dev
 
 If this project is useful, consider giving the repository a star ⭐.
