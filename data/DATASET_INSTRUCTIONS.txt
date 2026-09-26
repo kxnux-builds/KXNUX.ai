@@ -1,0 +1,8 @@
+Place the faculty/provided salary CSV dataset in this folder and rename it to:
+
+Salary_Data.csv
+
+Expected fields:
+Age, Gender, Education Level, Years of Experience, Job Title, Salary
+
+The training script also recognizes common alternate column names automatically.
