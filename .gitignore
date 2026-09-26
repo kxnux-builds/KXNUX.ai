@@ -48,14 +48,12 @@ desktop.ini
 
 # Trained model
 models/*
-!models/.gitkeep
 
 # =========================================================
 # Generated EDA / Output Files
 # =========================================================
 
 outputs/*
-!outputs/.gitkeep
 
 # =========================================================
 # Logs
@@ -83,5 +81,4 @@ outputs/*
 # Dataset
 # =========================================================
 
-data/*
-!data/.gitkeep
+data/Salary_Data.csv
